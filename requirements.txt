@@ -1,0 +1,4 @@
+pinecone-client
+sentence_transformers
+flask
+pandas

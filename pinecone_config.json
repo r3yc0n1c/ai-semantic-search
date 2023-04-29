@@ -1,0 +1,6 @@
+{
+    "api_key":"XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+    "env": "us-west4-gcp",
+    "index_name": "ecom-ai-semantic-search",
+    "metric": "cosine"
+}
